@@ -36,7 +36,7 @@ end
 
 
 
-def array #retrieve_last_element_from_array
+def retrieve_last_element_from_array
     array #last 
 end
     
